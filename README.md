@@ -1,7 +1,7 @@
 
-# Processamento Offline com Laravel - (Português BR)
+# Processamento Assíncrono com Laravel - (Português BR)
 
-Código para o video: PHP - Processamento Offline com Laravel - (Português BR)
+Código para o video: PHP - Processamento Assíncrono com Laravel - (Português BR)
 
 ## Youtube
 
